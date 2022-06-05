@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Grey Ding/Desktop/SPRING 2022/CSCI 2500/HW/HW6/main.c
+stdlib.h
+-
+stdio.h
+-
+ctype.h
+-
+math.h
+-
+string.h
+-
+

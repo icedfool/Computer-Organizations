@@ -1,0 +1,39 @@
+Jane Austen
+JA
+6
+Charles Dickens
+CD
+20
+Ernest Hemingway
+EH
+9
+Jack Kerouac
+JK
+22
+F. Scott Fitzgerald
+FSF
+8
+Mary Shelley
+MS
+7
+Charlotte Bronte
+CB
+5
+Mark Twain
+MT
+11
+Agatha Christie
+AC
+73
+Ian Fleming
+IF
+14
+J.K. Rowling
+JKR
+14
+Stephen King
+SK
+54
+Oscar Wilde
+OW
+1
